@@ -1,0 +1,4 @@
+#Wed Dec 07 14:26:51 EET 2022
+base.0=/Applications/lab4_pam/PAM_lab4/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
